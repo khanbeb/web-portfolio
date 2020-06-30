@@ -1,0 +1,22 @@
+body{
+    font-family: 'Rajdhani', sans-serif;
+}
+h1{
+    font-size: 30px;
+}
+.name-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+
+.half-width img{
+    width: 70%;
+    float: right;
+    margin-right: 5%;
+    padding-right: 5%;
+}
